@@ -7,7 +7,7 @@ public class GameField {
     public void initialize() {
         for (int i = 0; i < field.length; i++) {
             for (int j = 0; j < field[i].length; j++) {
-                field[i][j] = new Cell();
+                field[i][j] = new Cell(i, j);
             }
         }
     }

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="150f9427-5239-4afe-9725-88cd0ba05f3f" name="Changes" comment="create animals">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Organism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/predators/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/predators/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gamefield/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gamefield/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gamefield/GameField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gamefield/GameField.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -69,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655743515758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create animals">
+      <created>1655744841518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655744841518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
